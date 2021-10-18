@@ -1,1 +1,3 @@
-# heart-disease-classification
+# Heart Disease Classification based on Health Data
+
+The dataset for this is the file named 'heart.csv'. This project was created for a group project for Machine Learning class in Binus University Semester 4, where each group consists of 3 people. In this project, me and my group created a program to help people in the medical department such as doctors, and even hospitals to classify if a person is most likely or not most likely to have a heart disease from the health data obtained. It was created to help prevent or reduce the effects of heart disesase as well as raise awareness so people can maintain a healthy lifestlye.
